@@ -1,3 +1,3 @@
 # aesthetic-clocks
 An interesting type of clocks
-https://na1led.github.io/aesthetic-clocks/
+https://kang-front-dev.github.io/aesthetic-clocks/
