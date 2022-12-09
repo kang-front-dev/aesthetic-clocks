@@ -4,7 +4,9 @@
   box-sizing: border-box;
   font-family: 'Bakbak-One';
 }
-
+body{
+overflow: hidden;
+}
 .wrapper{
   background: linear-gradient(135deg, rgb(255, 255, 255), rgb(77, 77, 77));
   display: flex;
